@@ -12,7 +12,7 @@
 ##
 ## Символы "_()", окружающие название, отмечают его как пригодное для перевода.
 
-define config.name = _("Padezhator_name_SCRIPTtranslated")
+define config.name = _("Падежатор имен")
 
 
 ## Определяет, показывать ли заголовок, данный выше, на экране главного меню.
@@ -29,7 +29,7 @@ define config.version = "1.0"
 ## Текст, помещённый в экран "Об игре". Поместите текст между тройными скобками.
 ## Для отделения абзацев оставляйте между ними пустую строку.
 
-define gui.about = _p("""Padezhator_name_SCRIPTtranslated development wasya2009
+define gui.about = _p("""Падежатор имен development wasya2009
 """)
 
 
